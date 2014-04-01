@@ -1,0 +1,1 @@
+Fleet is an extremely simple python script that I wrote, primarily, to automate the process of adding my public key to remote hosts via ssh.  It is easily extendable for performing all sorts of remote ops; but there are other tools which would be better suited toward doing complex tasks.
