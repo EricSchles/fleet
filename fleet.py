@@ -93,7 +93,7 @@ def parse_args(arg_list):
     addkey_parser.add_argument(
         '-P',
         '--pub-key-file',
-        ype=str,
+        type=str,
         default='{HOME}/.ssh/id_rsa.pub'.format(**os.environ),
         help="Path to the public key file."
     )
